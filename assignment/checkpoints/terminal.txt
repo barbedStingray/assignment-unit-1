@@ -23,7 +23,10 @@ Touch bestFileEver
 It will show you the version of git currently installed on the computer
 
 # 8 - Why would you run the command 'git status'?
+to see if changes have been made, and if they have, are they commited? A way of checking to see if the work is saved. 
 
 # 9 - What does the command 'git add .' do?
+it pushes changes from all the edited files
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push origin main
