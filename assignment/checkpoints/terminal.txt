@@ -1,18 +1,26 @@
 # Type your responses on a new line
 
 # 1 - What is the command for listing the files in the current folder (directory)?
+Ls
 
 # 2 - What is the command for changing directories?
+Cd
 
 # 3 - What is the command for going "up" a folder (to a parent directory)?
+Cd ..
 
 # 4 - What is a quick way to create a new folder?
+Mkdir bestFolderEver
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
+Empty - it would show again a line with the folder you are in and no files would appear
+Containing - Names of files stored in that folder would appear
 
 # 6 - What is a quick way to create a new file?
+Touch bestFileEver
 
 # 7 - Run 'git --version' in your terminal. What is the output?
+It will show you the version of git currently installed on the computer
 
 # 8 - Why would you run the command 'git status'?
 
