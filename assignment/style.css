@@ -17,7 +17,14 @@ p{
     background-color: darkblue;
 }
 /* Put a border around your image */
-
+img{
+    border: 4px solid teal;
+}
 /* Change the font-family of your list */
-
+ul{
+    font-family: fantasy;
+}
 /* Add a background color to the footer element */
+footer{
+    background-color: darkgoldenrod;
+}
